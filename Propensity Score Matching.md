@@ -14,7 +14,8 @@ To reduce the "selection bias" among groups.
 4. Most are categorical variables
 
 #### Strategy 
-1. 
+1. Multinomial: use 
+2. Binomial: 
 
 ## Method description 
 Propensity Score Matching (PSM) is 
