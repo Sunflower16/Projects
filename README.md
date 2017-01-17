@@ -1,2 +1,2 @@
 # Projects
-An overview of projects
+A brief log of projects, for future and others reference
