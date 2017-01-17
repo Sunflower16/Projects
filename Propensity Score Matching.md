@@ -1,29 +1,29 @@
 ## Project description 
 
-### Data 
+#### Data 
 
 
-### Goal
+#### Goal
 To reduce the "selection bias" among groups.
 
 
-### Challenge
+#### Challenge
 1. Multiple groups: Six-group comparison, instead of two. 
 2. Covariate selection: A long list of potential covariates (theorety driven decision) 
 3. Most are categorical variables 
 4: Sample size variates across groups 
 
-### Strategy 
+#### Strategy 
 
 
-## Method description 
+### Method description 
 Propensity Score Matching (PSM) is 
 
 
 
 ## Implementation 
 
-### Process
+#### Process
 1. Data cleaning
 
 2. Calcualte the propensity score 
@@ -34,7 +34,7 @@ The "nnet" package support multinomial logistic regression, providing the
 
 
 
-### Tool
+#### Tool
 Software: R
 
 Package 1: MatchIt 
