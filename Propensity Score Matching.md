@@ -16,7 +16,7 @@ To reduce the "selection bias" among groups.
 #### Strategy 
 
 
-### Method description 
+## Method description 
 Propensity Score Matching (PSM) is 
 
 
